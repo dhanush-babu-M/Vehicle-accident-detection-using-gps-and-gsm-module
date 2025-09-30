@@ -1,4 +1,4 @@
-IoT-Based Accident Detection System
+IoT-Based Accident Detection System 🚗⚡
 Overview
 
 This project is an IoT-based accident detection system designed to automatically detect vehicle accidents and alert emergency contacts in real-time. Using sensors and communication modules, it reduces medical response delays and can potentially save lives.
@@ -23,7 +23,7 @@ Bystanders not reacting quickly.
 
 Victims being unable to call for help.
 
-This system automates the emergency response process, sending alerts within seconds to reduce response time and save lives.
+This system automates the emergency response, sending alerts within seconds to reduce response time and save lives.
 
 Technologies & Components Used
 Component	Purpose
@@ -46,9 +46,9 @@ The system continuously monitors for accidents, ensuring timely notifications.
 
 Challenges & Solutions
 
-False positives: Calibrated accelerometer threshold to avoid triggering alerts on speed breakers or minor bumps.
+False positives: Calibrated accelerometer thresholds to avoid triggering alerts on speed breakers or minor bumps.
 
-Instant SMS delivery: Ensured stable power supply and proper AT command programming for GSM module reliability.
+Instant SMS delivery: Ensured stable power supply and correct AT command programming for the GSM module.
 
 My Role
 
@@ -56,19 +56,19 @@ Programmed Arduino Uno in C/C++.
 
 Integrated accelerometer, GPS, and GSM modules.
 
-Tested the system under different accident scenarios to reduce false triggers.
+Tested different accident scenarios to reduce false triggers.
 
 Documented and demonstrated the project.
 
 Team Roles
 
-Hardware Connections: One member handled the setup of accelerometer, GPS, and GSM modules.
+Hardware Connections: Setup of accelerometer, GPS, and GSM modules.
 
-Power Supply: One member ensured stable and reliable power for the system.
+Power Supply: Ensured stable and reliable power.
 
-Testing: One member tested accident scenarios and collected data.
+Testing: Tested accident scenarios and collected data.
 
-Programming & Integration: My role included coding, debugging, integration, and project documentation.
+Programming & Integration: Coding, debugging, integration, and project documentation (my role).
 
 Relevance to IT / Software
 
