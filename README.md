@@ -1,7 +1,14 @@
-IoT-Based Accident Detection System 🚗⚡
+Vehicle Accident Detection Using GPS and GSM Module 🚗⚡
+
+
+
+
+
+
 Overview
 
-This project is an IoT-based accident detection system designed to automatically detect vehicle accidents and alert emergency contacts in real-time. Using sensors and communication modules, it reduces medical response delays and can potentially save lives.
+This project is an IoT-based vehicle accident detection system designed to automatically detect accidents and alert emergency contacts in real-time.
+Using sensors and communication modules, it reduces medical response delays and can potentially save lives.
 
 Features
 
@@ -42,7 +49,7 @@ When the threshold is exceeded, the GPS module captures the location coordinates
 
 The GSM module sends an SMS alert with the location to predefined contacts.
 
-The system continuously monitors for accidents, ensuring timely notifications.
+The system continuously monitors for accidents to ensure timely notifications.
 
 Challenges & Solutions
 
