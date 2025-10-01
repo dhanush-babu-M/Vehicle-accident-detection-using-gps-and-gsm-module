@@ -1,7 +1,5 @@
 # IoT-Based Vehicle Accident Detection System
 
-![Project Status](https://img.shields.io/badge/status-complete-green) ![Technology](https://img.shields.io/badge/tech-Arduino%20(C++)-blue)
-
 ## 📌 Project Overview
 
 This project is an IoT-based system that automatically detects vehicle accidents and alerts emergency contacts in real-time. It aims to reduce emergency response time and potentially save lives.
